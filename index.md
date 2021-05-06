@@ -1,4 +1,4 @@
-# Découverte de SpringBoot : Solutions (session 3)
+# Découverte de SpringBoot : Solutions
 
 ## Springdemo01 (Standalone)
 
@@ -124,4 +124,4 @@ L'annoation **JOINED** permet de générer des jointures.
 
 ![heritage12.4.png](images/heritage12.4.png)
 
-L'annoation **@MappedSuperClass** permet de générer des tables relatives au sous-classes en intégrant les propriété de la classe mère.
+L'annotation **@MappedSuperClass** permet de générer des tables relatives aux sous-classes en intégrant les propriétés de la classe mère.
